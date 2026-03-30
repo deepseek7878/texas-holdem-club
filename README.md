@@ -1,4 +1,4 @@
-# Texas-Hold-em-Club---Texas-Hold-em-Source-Code
+# Texas-Hold-em-Club---Texas-Hold-em-Source-Code 德州源碼，德撲源碼，德州遊戲源碼，德州俱樂部源碼，德州大廳；德州源码，德扑源码，德州游戏源码，德州俱乐部源码，德州大厅
 这个项目提供了一个完整的德州扑克游戏源码，德扑源码，德州游戏，德州私人局，德州朋友局，德州扑克源码，德州俱乐部源码，项目线上运营了多年，代码成熟稳定，包括客户端和服务器端。 有散人桌，俱乐部，以及大联盟模式，可以语音视频聊天打牌。客户端使用Unity引擎开发支持iOS和Android平台，服务器端使用C++编写。✈️TG：@fox_lovemyself
 
 ![01登录](https://github.com/user-attachments/assets/310972fa-63ed-443d-a49c-6d7d2c163a23)
