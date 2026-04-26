@@ -1,5 +1,5 @@
 A high-performance poker engine designed for real-time gameplay and simulation.
-# Texas Hold'em Club
+**Complete online Texas Hold'em poker club / 完整在线德州扑克俱乐部 / 完整線上德州撲克俱樂部**  
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/texas-holdem-club?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-club)
 [![GitHub forks](https://img.shields.io/github/forks/deepseek7878/texas-holdem-club?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-club)
@@ -7,7 +7,13 @@ A high-performance poker engine designed for real-time gameplay and simulation.
 [![GitHub license](https://img.shields.io/github/license/deepseek7878/texas-holdem-club?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-club/blob/main/LICENSE)
 [![Release](https://img.shields.io/github/v/release/deepseek7878/texas-holdem-club?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-club/releases)
 
-**Complete online Texas Hold'em poker club / 完整在线德州扑克俱乐部 / 完整線上德州撲克俱樂部**  
+
+
+**开发数年 · 支持线下验证 ·ALLIN德州扑克源码**
+
+
+**简体中文 · 繁體中文 · English· 韩文· 马来文· 日文**
+
 Lobby → Rooms → Real-time multiplayer → Chat → Tournaments → Chips system / 大厅→房间→实时对战→聊天→锦标赛→筹码系统 / 大廳→房間→即時對戰→聊天→錦標賽→籌碼系統.
 high-performance poker game engine
 ## 🎮 平台功能 / Platform Features / 平台功能，8个德州游戏玩法
