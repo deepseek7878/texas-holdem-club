@@ -50,17 +50,29 @@ npm run dev
 
 
 ![01登录](https://github.com/user-attachments/assets/310972fa-63ed-443d-a49c-6d7d2c163a23)
+
 **登录界面**
+
 ![05创建牌局](https://github.com/user-attachments/assets/ad7a1fcc-db06-4261-82db-dfaffbd6122f)
+
 **创建牌局**
+
 ![04俱乐部](https://github.com/user-attachments/assets/f77a2131-836e-4b94-88ca-9a0dadd1a4ff)
+
 **俱乐部**
+
 ![03大厅](https://github.com/user-attachments/assets/a6b30639-fd55-42d2-94dd-444736b64379)
+
 **游戏大厅1**
+
 ![02大厅](https://github.com/user-attachments/assets/0d93a098-8976-4f8b-a1bd-52764588d2b1)
+
 **游戏大厅2**
+
 ![06牌局](https://github.com/user-attachments/assets/c0612af5-4859-4d26-9cd9-2df9583d4164)
+
 **牌局中**
+
 ---
 
 ## 🏗️ 技术架构 / Tech Stack / 技術架構
@@ -189,7 +201,8 @@ docker-compose up -d
 MIT License - 商业级开源
 Copyright (c) 2026 deepseek7878
 完全商用授权 | 二次开发 | 云部署
-
+感谢 Star 支持！
+有任何问题或定制需求，请随时联系我们。
 ---
 
 **⭐ Star支持专业扑克俱乐部开源！ / Star professional poker club! / Star支持專業撲克俱樂部開源！**
