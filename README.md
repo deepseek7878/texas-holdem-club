@@ -10,7 +10,7 @@ A high-performance poker engine designed for real-time gameplay and simulation.
 **Complete online Texas Hold'em poker club / 完整在线德州扑克俱乐部 / 完整線上德州撲克俱樂部**  
 Lobby → Rooms → Real-time multiplayer → Chat → Tournaments → Chips system / 大厅→房间→实时对战→聊天→锦标赛→筹码系统 / 大廳→房間→即時對戰→聊天→錦標賽→籌碼系統.
 high-performance poker game engine
-## 🎮 平台功能 / Platform Features / 平台功能
+## 🎮 平台功能 / Platform Features / 平台功能，8个德州游戏玩法
 
 | 模块 | 功能 | 特色 |
 |---|---|---|
@@ -48,13 +48,19 @@ npm run dev
 
 ## 📱 完整功能演示 / Full Feature Demo / 完整功能示範
 
-![01登录](https://github.com/user-attachments/assets/310972fa-63ed-443d-a49c-6d7d2c163a23)
-![05创建牌局](https://github.com/user-attachments/assets/ad7a1fcc-db06-4261-82db-dfaffbd6122f)
-![04俱乐部](https://github.com/user-attachments/assets/f77a2131-836e-4b94-88ca-9a0dadd1a4ff)
-![03大厅](https://github.com/user-attachments/assets/a6b30639-fd55-42d2-94dd-444736b64379)
-![02大厅](https://github.com/user-attachments/assets/0d93a098-8976-4f8b-a1bd-52764588d2b1)
-![06牌局](https://github.com/user-attachments/assets/c0612af5-4859-4d26-9cd9-2df9583d4164)
 
+![01登录](https://github.com/user-attachments/assets/310972fa-63ed-443d-a49c-6d7d2c163a23)
+**登录界面**
+![05创建牌局](https://github.com/user-attachments/assets/ad7a1fcc-db06-4261-82db-dfaffbd6122f)
+**创建牌局**
+![04俱乐部](https://github.com/user-attachments/assets/f77a2131-836e-4b94-88ca-9a0dadd1a4ff)
+**俱乐部**
+![03大厅](https://github.com/user-attachments/assets/a6b30639-fd55-42d2-94dd-444736b64379)
+**游戏大厅1**
+![02大厅](https://github.com/user-attachments/assets/0d93a098-8976-4f8b-a1bd-52764588d2b1)
+**游戏大厅2**
+![06牌局](https://github.com/user-attachments/assets/c0612af5-4859-4d26-9cd9-2df9583d4164)
+**牌局中**
 ---
 
 ## 🏗️ 技术架构 / Tech Stack / 技術架構
